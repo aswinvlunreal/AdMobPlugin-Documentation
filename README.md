@@ -25,7 +25,8 @@ Blueprint Usage
 ![AdMob Plugin](Assets/RewardedAd.png)
 
 Show Rewarded Ad
-Input:UnitidRewardedAd
+
+Input: UnitID
 
 Callbacks:
 - OnSuccess
