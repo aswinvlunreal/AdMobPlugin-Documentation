@@ -56,8 +56,6 @@ OnSuccess
 
 OnFailed
 
-OnClosed
-
 
 ---
 
@@ -72,11 +70,11 @@ AdUnitID
 
 Callbacks:
 
-OnSuccess → Ad Loaded
+OnCompleted → Reward Player
 
 OnFailed → Load/Show Error
 
-OnCompleted → Reward Player
+
 
 ---
 
@@ -87,12 +85,9 @@ OnCompleted → Reward Player
 Show Rewarded Interstitial Ad
 Callbacks:
 
-OnSuccess
+OnCompleted
 
 OnFailed
 
-OnCompleted
 
-yaml
-Copy code
 
