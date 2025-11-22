@@ -22,7 +22,7 @@ Then:
 Blueprint Usage
 
 Show Rewarded Ad
-![Ad Banner](Assets/RewardedAd.png) 
+[Ad Banner](Assets/RewardedAd.png) 
 Input:UnitidRewardedAd
 
 Callbacks:
