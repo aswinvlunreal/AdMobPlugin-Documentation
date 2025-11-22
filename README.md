@@ -21,6 +21,12 @@ Then:
 
 Blueprint Usage
 
-```
-![Banner Example](Assets/RewardedAd.png)
-```
+Show Rewarded Ad
+![Banner Example](Assets/RewardedAd.png) 
+Input:UnitidRewardedAd
+
+Callbacks:
+- OnSuccess
+- OnFailed
+- OnCompleted (reward event)
+
