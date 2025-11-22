@@ -51,12 +51,14 @@ Callbacks:
 ![Interstitial Ad Example](Assets/InterstitialAd.png)
 
 Show Interstitial Ad
+Input:
+*AdUnitID
 
 Callbacks:
 
-OnSuccess
+* OnSuccess
 
-OnFailed
+* OnFailed
 
 
 ---
@@ -66,15 +68,16 @@ OnFailed
 ![Rewarded Ad Example](Assets/RewardedAd.png)
 
 Show Rewarded Ad
+
 Input:
 
-AdUnitID
+* AdUnitID
 
 Callbacks:
 
-OnCompleted → Reward Player
+* OnCompleted → Reward Player
 
-OnFailed → Load/Show Error
+* OnFailed → Load/Show Error
 
 
 
@@ -85,11 +88,16 @@ OnFailed → Load/Show Error
 ![Rewarded Interstitial Example](Assets/RewardedInterstitial.png)
 
 Show Rewarded Interstitial Ad
+
+Input:
+
+* AdUnitID
+  
 Callbacks:
 
-OnCompleted
+* OnCompleted
 
-OnFailed
+* OnFailed
 
 
 ---
