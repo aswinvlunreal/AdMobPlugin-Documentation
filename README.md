@@ -33,13 +33,15 @@ Below are all the supported ad formats with preview images and node details.
 
 Show Banner Ad
 
-Inputs: AdUnitID, UseAdaptiveBanner (true/false)
+Inputs: 
+* AdUnitID
+* IsAdabptive (true/false)
 
 Callbacks:
 
-OnSuccess
+* OnSuccess
 
-OnFailed
+* OnFailed
 
 
 ---
