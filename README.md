@@ -32,11 +32,8 @@ Below are all the supported ad formats with preview images and node details.
 ![Banner Ad Example](Assets/BannerAd.png)
 
 Show Banner Ad
-Inputs:
 
-AdUnitID
-
-UseAdaptiveBanner (true/false)
+Inputs: AdUnitID, UseAdaptiveBanner (true/false)
 
 Callbacks:
 
