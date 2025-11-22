@@ -19,17 +19,15 @@ Then:
 4.Add AdMob App ID in Project Settings/Engine/AdMob Settings/AppID
 
 
-Blueprint Usage
+---
 
+## 🎮 Blueprint Usage
 
-![AdMob Plugin](Assets/RewardedAd.png)
+Below are all the supported ad formats with preview images and node details.
 
-Show Rewarded Ad
+---
 
-Input: AdUnitID
+## 🟦 **Banner Ad**
 
-Callbacks:
-- OnSuccess
-- OnFailed
-- OnCompleted (reward event)
+![Banner Ad Example](Assets/BannerAd.png)
 
