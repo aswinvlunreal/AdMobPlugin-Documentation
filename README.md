@@ -51,6 +51,7 @@ Callbacks:
 ![Interstitial Ad Example](Assets/InterstitialAd.png)
 
 Show Interstitial Ad
+
 Input:
 *AdUnitID
 
