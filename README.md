@@ -21,3 +21,4 @@ Then:
 
 Blueprint Usage
 ![Banner Example](Assets/Screenshot 2025-11-21 105131.png)
+![Ad Banner](https://raw.githubusercontent.com/aswinvlunreal/AdMobPlugin-Documentation/main/Assets/Assets/Screenshot 2025-11-21 105131.png)
