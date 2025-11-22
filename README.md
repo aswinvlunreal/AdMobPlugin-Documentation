@@ -21,7 +21,7 @@ Then:
 1. Restart **Unreal Engine**  
 2. Open **Edit → Plugins**  
 3. Enable **AdMob Plugin**  
-4. Set your **AdMob App ID** in:
+4. Set your **AdMob App ID** in: **Project Settings/Engine/AdMob Settings/AppID**
 
 
 
