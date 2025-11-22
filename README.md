@@ -41,3 +41,58 @@ OnSuccess
 
 OnFailed
 
+
+---
+
+## 🟥 **Interstitial Ad**
+
+![Interstitial Ad Example](Assets/InterstitialAd.png)
+
+Show Interstitial Ad
+
+Callbacks:
+
+OnSuccess
+
+OnFailed
+
+OnClosed
+
+
+---
+
+## 🟩 **Rewarded Ad**
+
+![Rewarded Ad Example](Assets/RewardedAd.png)
+
+Show Rewarded Ad
+Input:
+
+AdUnitID
+
+Callbacks:
+
+OnSuccess → Ad Loaded
+
+OnFailed → Load/Show Error
+
+OnCompleted → Reward Player
+
+---
+
+## 🟨 **Rewarded Interstitial Ad**
+
+![Rewarded Interstitial Example](Assets/RewardedInterstitial.png)
+
+Show Rewarded Interstitial Ad
+Callbacks:
+
+OnSuccess
+
+OnFailed
+
+OnCompleted
+
+yaml
+Copy code
+
