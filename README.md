@@ -96,24 +96,24 @@ OnFailed
 
 Ads not showing:
 
- Test on a real device
+* Test on a real device
 
- Use Google test ad IDs
+* Use Google test ad IDs
 
- Ensure Internet permission is enabled
+* Ensure Internet permission is enabled
 
 App crashes:
 
- Missing Android permission
+* Missing Android permission
 
- Incorrect AdMob App ID
+* Incorrect AdMob App ID
 
- Wrong plugin installation
+* Wrong plugin installation
 
 No reward:
 
- Confirm "OnCompleted" is connected in Blueprint
+* Confirm "OnCompleted" is connected in Blueprint
 
- Verify correct Ad Unit IDs
+* Verify correct Ad Unit IDs
 
 
