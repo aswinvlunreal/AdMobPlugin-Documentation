@@ -34,6 +34,7 @@ Below are all the supported ad formats with preview images and node details.
 Show Banner Ad
 
 Inputs: 
+
 * AdUnitID
 * IsAdabptive (true/false)
 
@@ -53,7 +54,8 @@ Callbacks:
 Show Interstitial Ad
 
 Input:
-*AdUnitID
+
+* AdUnitID
 
 Callbacks:
 
