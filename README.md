@@ -26,8 +26,7 @@ Blueprint Usage
 
 Show Rewarded Ad
 
-Input: UnitID
-
+Input: AdUnitID
 Callbacks:
 - OnSuccess
 - OnFailed
