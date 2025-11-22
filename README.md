@@ -12,3 +12,12 @@ YourProject/
 └── Plugins/
     └── AdMobPlugin/
 ```
+Then:
+1.Restart Unreal Engine
+2.Go to Edit → Plugins
+3.Enable AdMob Plugin
+4.Add AdMob App ID in Project Settings/Engine/AdMob Settings/AppID
+
+
+Blueprint Usage
+
