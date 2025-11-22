@@ -21,8 +21,10 @@ Then:
 
 Blueprint Usage
 
+
+![AdMob Plugin](Assets/RewardedAd.png)
+
 Show Rewarded Ad
-![AdMob Plugin](Assets/RewardedAd.png) 
 Input:UnitidRewardedAd
 
 Callbacks:
