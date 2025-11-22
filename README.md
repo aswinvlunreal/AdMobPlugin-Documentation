@@ -20,5 +20,7 @@ Then:
 
 
 Blueprint Usage
+
+```
 ![Banner Example](Assets/RewardedAd.png)
-![Ad Banner](https://raw.githubusercontent.com/aswinvlunreal/AdMobPlugin-Documentation/main/Assets/RewardedAd.png)
+```
