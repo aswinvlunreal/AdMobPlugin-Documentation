@@ -90,4 +90,30 @@ OnCompleted
 OnFailed
 
 
+---
+
+## 🛠 Troubleshooting
+
+Ads not showing:
+
+ Test on a real device
+
+ Use Google test ad IDs
+
+ Ensure Internet permission is enabled
+
+App crashes:
+
+ Missing Android permission
+
+ Incorrect AdMob App ID
+
+ Wrong plugin installation
+
+No reward:
+
+ Confirm "OnCompleted" is connected in Blueprint
+
+ Verify correct Ad Unit IDs
+
 
