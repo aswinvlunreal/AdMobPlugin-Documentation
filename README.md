@@ -10,17 +10,19 @@ Includes **Banner**, **Interstitial**, **Rewarded**, and **Rewarded Interstitial
 Place the plugin inside your project:
 
 YourProject/
+
 └── Plugins/
+
 └── AdMobPlugin/
 
-```
+
 Then:
 
 1. Restart **Unreal Engine**  
 2. Open **Edit → Plugins**  
 3. Enable **AdMob Plugin**  
 4. Set your **AdMob App ID** in:
-```
+
 
 
 ## 🎮 Blueprint Usage
