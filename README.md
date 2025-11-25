@@ -1,2 +1,2 @@
 
-[![PDF Documentation](Docs/DocumentationThumbnail.png)]
+[![PDF Documentation](Docs/AdMobPluginDocumentation.pdf)]
